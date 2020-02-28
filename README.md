@@ -1,27 +1,7 @@
-# This is a large heading
+## Marco Montes de Oca
 
-## This is a smaller heading
-
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-
-- This is
-- an unordered
-- list
-
-1. This is 
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is 
-a block 
-of code
-```
-
-Here is how you make [a link](https://wikipedia.org/).
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+I am a bioinformatician with experience handling short-read data such as Illumina reads. My understanding of bash allows me to run
+command-line tools in a fine-tuned way. My preferred data processing method involves using python scripts in combination with CSV 
+or Excel files to summarise each step in user-friendly files. R is a versatile language to perform data analysis, and I use it as 
+it is actively maintained. My background in biochemistry and molecular biology gives me a deeper interpretation of methods, 
+analysis, and results.
